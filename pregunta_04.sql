@@ -40,4 +40,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
-select KO,c16 from tbl1 where ko = SUBSTRING(16,1,1)
+select K0,c16 from tbl1 where k0 = SUBSTRING(16,1,1)
